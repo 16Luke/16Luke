@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on web pages management
-- 📫 How to reach me cluca693@gmail.com
+- 📫 How to reach me cannoneluca2003@gmail.com 
 
 <!---
 16Luke/16Luke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
